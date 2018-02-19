@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1057082399509",
+    "firebase_url": "https://familyexpensetracker-cf1cc.firebaseio.com",
+    "project_id": "familyexpensetracker-cf1cc",
+    "storage_bucket": "familyexpensetracker-cf1cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057082399509:android:9322a6b4cbaa7347",
+        "android_client_info": {
+          "package_name": "com.familyexpensetracker.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057082399509-opkvg759etihfmcfe4ngmbphg2q12sqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.familyexpensetracker.android",
+            "certificate_hash": "28413221fb6f413163b2804f596978cf3db64e8b"
+          }
+        },
+        {
+          "client_id": "1057082399509-dvehe51l0khicvrna7s77tfgarmh0brh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOkbwDeztxQUOZqeve33lBzynPu0lovl0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057082399509-dvehe51l0khicvrna7s77tfgarmh0brh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
